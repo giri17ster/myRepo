@@ -8,3 +8,5 @@ else:
     print("a greater than b")
 
 print("another statement")
+
+print("extra statement")
