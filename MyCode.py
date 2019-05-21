@@ -10,3 +10,8 @@ else:
 print("another statement")
 
 print("extra statement")
+
+print("extra statement 1")
+
+print("extra statement 2")
+
